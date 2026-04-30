@@ -1,0 +1,21 @@
+{
+  "name": "github-workshop-demo",
+  "version": "1.0.0",
+  "description": "A sample project for teaching Git and GitHub workflows",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node calculator.js",
+    "test": "echo \"Tests would run here\"",
+    "dev": "python3 string_utils.py"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "workshop",
+    "demo",
+    "teaching"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
